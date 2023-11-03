@@ -25,11 +25,3 @@
 - User(수정인)
 
 <br>
-
-## 📖 Alarm table
-- index
-- date
-- id
-- content
-
-<br>
