@@ -17,7 +17,14 @@
 # 📘 DB 설계
 
 ## 📖 user table
-
+- email(p)
+- name
+- password
+- student_id
+- grade 
+- gender
+- phonenumber
+- birthday
 
 ## 📖 task management table
 
