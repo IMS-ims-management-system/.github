@@ -16,6 +16,9 @@
 
 # 📘 DB 설계
 
+## 📖 user table
+
+
 ## 📖 task management table
 
 ## 📖 project management table
